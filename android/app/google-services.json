@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16177396955",
+    "project_id": "myn0tes",
+    "storage_bucket": "myn0tes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16177396955:android:1a4fcef0be0809347c60fe",
+        "android_client_info": {
+          "package_name": "com.deltataf.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16177396955-ssbcbgem7pplgbbpu2abuqrbhfit6lck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQ7TYuXfohH5LUOR8bqZrvTZ3iaql4fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16177396955-ssbcbgem7pplgbbpu2abuqrbhfit6lck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
