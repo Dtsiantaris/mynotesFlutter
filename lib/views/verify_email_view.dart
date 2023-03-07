@@ -22,9 +22,9 @@ class _VerifyEmailViewState extends State<VerifyEmailView> {
         centerTitle: true,
       ),
       body: Column(children: [
-        Padding(
-          padding: const EdgeInsets.symmetric(vertical: 18.0),
-          child: const Text(
+        const Padding(
+          padding: EdgeInsets.symmetric(vertical: 18.0),
+          child: Text(
             "We've sent you an email verification. Please click on the link to verify your account.",
             textAlign: TextAlign.center,
           ),
